@@ -1,12 +1,12 @@
-# The Jupyter Widget Ecosystem
+# The moons of Jupyter: widgets ecosystem
 
-## Tutorial, SciPy 2021
+## Tutorial, PyBCN 2021
 
-# https://github.com/jupyter-widgets/tutorial
+# https://github.com/marimeireles/pybar-2021-jupyter-widgets
 
 # Installation
 
-### Installation instructions last updated 2021-06-07
+### Installation instructions last updated 2021-11-26
 
 The code in the tutorial has been written using Python 3; many of the dependencies may not be available for Python 2.7.
 
@@ -29,7 +29,7 @@ The steps below will get you a  working environment.
 ```bash
 conda env create -f environment.yml
 
-conda activate widgets-tutorial-2021
+conda activate jupyter-moons
 
 # Create a kernel for this environment
 ipython kernel install --name widgets-tutorial --display-name widgets-tutorial --sys-prefix
@@ -59,7 +59,7 @@ python install_check.py
 
 ## Tutorial materials
 
-To get the tutorial materials, clone this repository. *We anticipate making changes to the tutorial content through the end of July 8, 2020.*
+To get the tutorial materials, clone this repository.
 
 To update your copy of the tutorial materials, navigate in a terminal to folder these materials are in then run `git pull`. An alternative is to download the repository again as a zip file.
 
