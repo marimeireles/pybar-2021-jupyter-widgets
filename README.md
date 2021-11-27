@@ -4,6 +4,8 @@
 
 # https://github.com/marimeireles/pybar-2021-jupyter-widgets
 
+![presenters](https://pbs.twimg.com/media/FEzoY0JXwAE7CE7?format=jpg&name=medium)
+
 # Installation
 
 ### Installation instructions last updated 2021-11-26
